@@ -11,3 +11,11 @@ def hello():
     """
 
     print("hello")
+
+def goodbye():
+    """Prints goodbye
+    Side Effects: prints goodbye
+    Attributes: there are no attributes
+    """
+
+    print("goodbye")
